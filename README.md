@@ -1,2 +1,2 @@
-# template-repository
-template unity repo
+# template-project
+template unity project
